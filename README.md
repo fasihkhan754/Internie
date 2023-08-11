@@ -1,2 +1,3 @@
 # Internie
-This repository contains daily routine files 
+Daily tasks done during my internship
+
